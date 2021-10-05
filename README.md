@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 📫 You can reach me at: ccy1563@gmail.com
+- ⚡ Fun fact: I need a job
 <!--
 **ccy1563/ccy1563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
